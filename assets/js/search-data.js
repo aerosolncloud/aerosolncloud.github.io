@@ -525,21 +525,28 @@ ninja.data = [{
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Praveen-Singh-46/", "_blank");
+          window.open("https://www.researchgate.net/profile/Praveen-Singh-46/", "_blank");
         },
       },{
         id: 'social-scopus',
         title: 'Scopus',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.scopus.com/authid/detail.uri?authorId=https://www.scopus.com/authid/detail.uri?authorId=56420981100", "_blank");
+          window.open("https://www.scopus.com/authid/detail.uri?authorId=56420981100", "_blank");
         },
       },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/https://orcid.org/0000-0001-7173-5539", "_blank");
+          window.open("https://orcid.org/0000-0001-7173-5539", "_blank");
+        },
+      },{
+        id: 'social-publons',
+        title: 'Publons',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://publons.com/a/praveen.singh.6/", "_blank");
         },
       },{
         id: 'social-linkedin',
@@ -547,6 +554,20 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/singhpraveenk", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/singhpraveenk_", "_blank");
+        },
+      },{
+        id: 'social-instagram',
+        title: 'Instagram',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://instagram.com/singhpraveenk_photography", "_blank");
         },
       },{
       id: 'light-theme',
