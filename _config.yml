@@ -164,6 +164,7 @@ collections:
     output: false
   research:
     output: true  
+    permalink: /research/:name/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
