@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.lmd.ipsl.fr/en/home-2/the-lmd/'> LMD - Laboratoire de Météorologie Dynamique</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href="https://www.lmd.ipsl.fr/en/home-2/the-lmd"'> LMD - Laboratoire de Météorologie Dynamique</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
