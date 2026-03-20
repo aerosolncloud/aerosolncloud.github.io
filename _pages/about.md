@@ -27,6 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+Dr. Praveen Kumar Singh is a climate and atmospheric scientist whose research explores the complex linkages between air quality, climate change, and cryospheric processes in the Hindu Kush Himalayan (HKH) region. His work focuses on understanding how short-lived climate pollutants, particularly black carbon, influence climate, glacier melting, regional albedo, and radiative forcing using various models, such as general circulation, regional climate, radiative transfer, radiation balance, hydrological, along with ground-based observation, satellite, and gridded datasets.
+
+Dr. Singh earned his Ph.D. in Atmospheric Science from the Indian Institute of Technology Roorkee, where his dissertation examined black carbon concentration, sources, and radiative impacts across the Himalayas. He currently serves as a Senior Program Associate - Air Quality at WRI India, developing evidence-based strategies to reduce urban air pollution and promote climate-resilient planning.
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
