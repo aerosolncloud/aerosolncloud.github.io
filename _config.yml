@@ -163,8 +163,8 @@ collections:
   teachings:
     output: false
   research:
-    output: true  
-    permalink: /research/:name/
+    output: true
+  
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
