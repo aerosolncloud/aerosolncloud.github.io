@@ -542,13 +542,6 @@ ninja.data = [{
           window.open("https://orcid.org/0000-0001-7173-5539", "_blank");
         },
       },{
-        id: 'social-publons',
-        title: 'Publons',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://publons.com/a/praveen.singh.6/", "_blank");
-        },
-      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
