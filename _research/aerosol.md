@@ -1,6 +1,7 @@
 ---
 layout: page
-title: research 1
+title: aerosol
+permalink: /research/aerosol/
 description: 
 img: 
 importance:
